@@ -25,5 +25,8 @@
 		"webpack": "^4.20.2",
 		"webpack-cli": "^3.1.2",
 		"webpack-dev-server": "^3.1.9"
+	},
+	"installConfig": {
+		"pnp": true
 	}
 }
