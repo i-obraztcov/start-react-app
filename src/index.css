@@ -1,7 +1,7 @@
-@import "./colors.css";
+@import './colors.css';
 
 .title {
-	color: var(--errorRed);
-	display: flex;
-	display: grid;
+  color: var(--errorRed);
+  display: flex;
+  display: grid;
 }

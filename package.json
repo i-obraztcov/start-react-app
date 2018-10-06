@@ -37,6 +37,10 @@
 		"prettier": "^1.14.3",
 		"react-hot-loader": "^4.3.11",
 		"style-loader": "^0.23.0",
+		"stylelint": "^9.6.0",
+		"stylelint-config-recommended": "^2.1.0",
+		"stylelint-prettier": "^1.0.3",
+		"stylelint-webpack-plugin": "^0.10.5",
 		"webpack": "^4.20.2",
 		"webpack-cli": "^3.1.2",
 		"webpack-dev-server": "^3.1.9"
